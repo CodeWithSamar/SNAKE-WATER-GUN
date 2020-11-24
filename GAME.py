@@ -1,5 +1,4 @@
 # SNAKE-WATER-GUN
-SEE IT
 # Snake water gun
 
 import random
